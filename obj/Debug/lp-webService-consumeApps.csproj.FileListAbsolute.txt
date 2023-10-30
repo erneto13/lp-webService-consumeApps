@@ -1,0 +1,10 @@
+C:\Users\Ernesto Amaral\Desktop\ci shart\lp-webService-consumeApps\bin\Debug\lp-webService-consumeApps.exe.config
+C:\Users\Ernesto Amaral\Desktop\ci shart\lp-webService-consumeApps\bin\Debug\lp-webService-consumeApps.exe
+C:\Users\Ernesto Amaral\Desktop\ci shart\lp-webService-consumeApps\bin\Debug\lp-webService-consumeApps.pdb
+C:\Users\Ernesto Amaral\Desktop\ci shart\lp-webService-consumeApps\obj\Debug\lp-webService-consumeApps.csproj.AssemblyReference.cache
+C:\Users\Ernesto Amaral\Desktop\ci shart\lp-webService-consumeApps\obj\Debug\lp_webService_consumeApps.Form1.resources
+C:\Users\Ernesto Amaral\Desktop\ci shart\lp-webService-consumeApps\obj\Debug\lp_webService_consumeApps.Properties.Resources.resources
+C:\Users\Ernesto Amaral\Desktop\ci shart\lp-webService-consumeApps\obj\Debug\lp-webService-consumeApps.csproj.GenerateResource.cache
+C:\Users\Ernesto Amaral\Desktop\ci shart\lp-webService-consumeApps\obj\Debug\lp-webService-consumeApps.csproj.CoreCompileInputs.cache
+C:\Users\Ernesto Amaral\Desktop\ci shart\lp-webService-consumeApps\obj\Debug\lp-webService-consumeApps.exe
+C:\Users\Ernesto Amaral\Desktop\ci shart\lp-webService-consumeApps\obj\Debug\lp-webService-consumeApps.pdb
